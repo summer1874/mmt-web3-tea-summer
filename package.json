@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@summer1874/mmt-web3-tea-summer": "^1.4.9"
+  },
+  "name": "mmt-web3-tea-summer",
+  "version": "1.5.0",
+  "description": "mmt-web3-tea-summer",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/summer1874/mmt-web3-tea-summer.git"
+  },
+  "keywords": [
+    "Jenifer@1989"
+  ],
+  "author": "summer1874",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summer1874/mmt-web3-tea-summer/issues"
+  },
+  "homepage": "https://github.com/summer1874/mmt-web3-tea-summer#readme"
+}
+
