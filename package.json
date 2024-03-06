@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "@summer1874/mmt-web3-tea-summer": "^1.4.9"
+    "pda-vxe-table": "^2.9.29",
+    "vuepress-theme-neon": "^1.0.2",
+    "vuepress-theme-summer": "1.0.0-alpha.1",
+    "vuepress-theme-tea": "1.0.0-alpha.36"
   },
-  "name": "mmt-web3-tea-summer",
+  "name": "mmt-web3-tea",
   "version": "1.5.0",
-  "description": "mmt-web3-tea-summer",
+  "description": "mmt-web3-tea",
   "main": "index.js",
   "devDependencies": {
     "eslint": "^8.57.0",
@@ -27,4 +30,3 @@
   },
   "homepage": "https://github.com/summer1874/mmt-web3-tea-summer#readme"
 }
-
